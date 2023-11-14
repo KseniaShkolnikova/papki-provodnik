@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.AssemblyInfo.cs
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Папки\Папки\bin\Debug\net7.0\Папки.exe
+C:\Users\user1\source\repos\Папки\Папки\bin\Debug\net7.0\Папки.deps.json
+C:\Users\user1\source\repos\Папки\Папки\bin\Debug\net7.0\Папки.runtimeconfig.json
+C:\Users\user1\source\repos\Папки\Папки\bin\Debug\net7.0\Папки.dll
+C:\Users\user1\source\repos\Папки\Папки\bin\Debug\net7.0\Папки.pdb
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.dll
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\refint\Папки.dll
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.pdb
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\Папки.genruntimeconfig.cache
+C:\Users\user1\source\repos\Папки\Папки\obj\Debug\net7.0\ref\Папки.dll
